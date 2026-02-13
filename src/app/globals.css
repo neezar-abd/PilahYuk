@@ -1,26 +1,126 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-jakarta);
+
+  /* Eco Color Palette */
+  --color-eco-50: hsl(142, 70%, 97%);
+  --color-eco-100: hsl(142, 65%, 92%);
+  --color-eco-200: hsl(142, 60%, 83%);
+  --color-eco-300: hsl(142, 55%, 70%);
+  --color-eco-400: hsl(142, 60%, 55%);
+  --color-eco-500: hsl(142, 71%, 45%);
+  --color-eco-600: hsl(142, 76%, 36%);
+  --color-eco-700: hsl(142, 72%, 29%);
+  --color-eco-800: hsl(142, 64%, 24%);
+  --color-eco-900: hsl(142, 61%, 20%);
+
+  /* Accent Colors */
+  --color-amber-400: hsl(38, 92%, 50%);
+  --color-amber-500: hsl(38, 92%, 40%);
+  --color-purple-400: hsl(270, 60%, 60%);
+  --color-purple-500: hsl(270, 60%, 50%);
+
+  /* Shadows */
+  --shadow-eco: 0 10px 15px -3px rgba(34, 197, 94, 0.1);
+  --shadow-eco-lg: 0 20px 25px -5px rgba(34, 197, 94, 0.15);
+  --shadow-soft: 0 4px 12px rgba(0, 0, 0, 0.08), 0 1px 3px rgba(0, 0, 0, 0.05);
+  --shadow-card: 0 4px 6px -1px rgba(0, 0, 0, 0.07), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+  --shadow-card-hover: 0 20px 25px -5px rgba(0, 0, 0, 0.08), 0 8px 10px -6px rgba(0, 0, 0, 0.04);
+
+  /* Radius */
+  --radius-card: 1rem;
+  --radius-button: 0.75rem;
+
+  /* Animations */
+  --animate-float: float 3s ease-in-out infinite;
+  --animate-pulse-eco: pulse-eco 2s ease-in-out infinite;
 }
 
-@media (prefers-color-scheme: dark) {
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes pulse-eco {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(34, 197, 94, 0.4); }
+  50% { box-shadow: 0 0 0 10px rgba(34, 197, 94, 0); }
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --container-padding: 1rem;
+  --section-gap: 3rem;
+}
+
+@media (min-width: 768px) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --container-padding: 1.5rem;
+    --section-gap: 5rem;
   }
+}
+
+@media (min-width: 1024px) {
+  :root {
+    --container-padding: 2rem;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-jakarta), system-ui, sans-serif;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Glassmorphism utility */
+.glass {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Gradient backgrounds */
+.gradient-eco {
+  background: linear-gradient(135deg, var(--color-eco-500), var(--color-eco-600));
+}
+
+.gradient-eco-soft {
+  background: linear-gradient(180deg, var(--color-eco-50), white);
+}
+
+.gradient-hero {
+  background: linear-gradient(135deg, var(--color-eco-50) 0%, white 50%, hsl(38, 100%, 97%) 100%);
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-eco-300);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-eco-400);
 }
