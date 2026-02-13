@@ -30,7 +30,7 @@ export function PricingCard({
     features,
     popular = false,
     delay = 0,
-    ctaText = "Pilih Paket",
+    ctaText = "Choose Plan",
 }: PricingCardProps) {
     return (
         <motion.div
@@ -40,14 +40,14 @@ export function PricingCard({
             transition={{ duration: 0.5, delay }}
             whileHover={{ y: -8 }}
             className={`relative p-6 md:p-8 rounded-2xl border-2 transition-all duration-300 ${popular
-                    ? "border-eco-500 bg-white shadow-eco-lg scale-[1.02]"
-                    : "border-gray-100 bg-white shadow-card hover:shadow-card-hover"
+                ? "border-eco-500 bg-white shadow-eco-lg scale-[1.02]"
+                : "border-gray-100 bg-white shadow-card hover:shadow-card-hover"
                 }`}
         >
             {popular && (
                 <div className="absolute -top-3.5 left-1/2 -translate-x-1/2">
                     <span className="px-4 py-1.5 rounded-full gradient-eco text-white text-xs font-semibold shadow-eco">
-                        Paling Populer ⭐
+                        Most Popular ⭐
                     </span>
                 </div>
             )}
@@ -86,8 +86,8 @@ export function PricingCard({
 
             <button
                 className={`w-full py-3.5 rounded-xl font-semibold text-sm transition-all duration-300 ${popular
-                        ? "gradient-eco text-white shadow-eco hover:shadow-eco-lg hover:-translate-y-0.5"
-                        : "bg-eco-50 text-eco-700 hover:bg-eco-100"
+                    ? "gradient-eco text-white shadow-eco hover:shadow-eco-lg hover:-translate-y-0.5"
+                    : "bg-eco-50 text-eco-700 hover:bg-eco-100"
                     }`}
             >
                 {ctaText}
