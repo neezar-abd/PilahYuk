@@ -237,14 +237,27 @@ npm start
 - 1 kg plastic recycled = 1.5 kg CO2 saved
 - 1 kg paper recycled = 1.0 kg CO2 saved
 
-## 👥 Founder
+## 👥 Solo Student Founder
 
-**Neezar Abd** - Solo Founder & Full-Stack Developer
-- UI/UX Design: Complete user interface and experience design
-- Frontend Development: Next.js, TypeScript, Tailwind CSS implementation
-- Business Strategy: Market research and competitive analysis
+**Neezar Abd** - SMK Student, Full-Stack Developer & Designer
 
-*Currently seeking co-founders for operations and business development roles*
+**Solo Founder Journey**:
+
+As a student founder, I've handled all aspects of PilahYuk from concept to prototype:
+- **Market Research**: Verified pricing from Surabaya waste ecosystem (Feb 2026 data)
+- **UI/UX Design**: Complete user interface and experience design
+- **Full-Stack Development**: Next.js 16, TypeScript, Tailwind CSS
+- **Business Strategy**: Unit economics modeling and competitive analysis
+
+**Phase 1 Approach**:
+
+For the initial pilot (50 users in 3-5 neighborhoods), I can manage operations with 2-3 contract drivers. This scale is realistic for a student-led project and allows me to learn operations, customer service, and logistics firsthand.
+
+**Growth Vision**:
+
+Scaling beyond 300+ users will require building a proper team. Finding the right co-founders for operations and business development is part of my journey as I validate the business model through the pilot.
+
+*Starting solo allows me to deeply understand every aspect of the business before bringing on team members.*
 
 ## 📄 License
 

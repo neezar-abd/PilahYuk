@@ -4,18 +4,25 @@
 
 **Startup Name**: PilahYuk  
 **Tagline**: Sustainable Waste Management Platform  
-**Solo Founder**: Neezar Abd (Developer & Designer)
-**Solo Founder Journey**:
-As a solo founder, I've handled all aspects from concept to prototype:
-- Market research and competitive analysis
-- UI/UX design and user flow optimization  
-- Full-stack development (Next.js, TypeScript)
-- Business model validation
+**Solo Student Founder**: Neezar Abd (SMK Student, Developer & Designer)
 
-I'm actively seeking co-founders for:
-- Operations & Logistics Management
-- Business Development & Partnerships
-- Community Engagement & Marketing
+**Solo Founder Journey**:
+
+As a student founder, I've handled all aspects of PilahYuk from concept to prototype:
+- **Market Research**: Verified pricing from Surabaya waste ecosystem (Feb 2026 data)
+- **UI/UX Design**: Complete user interface and experience design
+- **Full-Stack Development**: Next.js 16, TypeScript, Tailwind CSS
+- **Business Strategy**: Unit economics modeling and competitive analysis
+
+**Phase 1 Approach**:
+
+For the initial pilot (50 users in 3-5 neighborhoods), I can manage operations with 2-3 contract drivers. This scale is realistic for a student-led project and allows me to learn operations, customer service, and logistics firsthand.
+
+**Growth Vision**:
+
+Scaling beyond 300+ users will require building a proper team. Finding the right co-founders for operations and business development is part of my journey as I validate the business model through the pilot.
+
+*Starting solo allows me to deeply understand every aspect of the business before bringing on team members.*
 
 **Demo**: https://pilahyuk.vercel.app  
 **GitHub Repository**: https://github.com/neezar-abd/PilahYuk  
