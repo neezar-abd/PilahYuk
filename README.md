@@ -243,7 +243,6 @@ npm start
 - UI/UX Design: Complete user interface and experience design
 - Frontend Development: Next.js, TypeScript, Tailwind CSS implementation
 - Business Strategy: Market research and competitive analysis
-- Previous Achievement: 1st place winner with PilahYuk concept at regional competition
 
 *Currently seeking co-founders for operations and business development roles*
 

@@ -42,8 +42,6 @@ The problem matters because:
 - No convenient doorstep pickup service exists for sorted recyclables
 - Low compensation (often $0.50-1 per trip) doesn't justify the time and transportation cost
 
-**Market Validation**: Our previous pilot with this concept won 1st place at a regional competition, demonstrating strong judge confidence in the solution's viability.
-
 This creates a lose-lose situation: families want to recycle but lack infrastructure, while recycling facilities need consistent material supply but can't access household waste efficiently.
 
 ---
@@ -311,7 +309,6 @@ Indonesia (5-Year Vision):
 6. Local influencers: Partner with eco-conscious content creators in Surabaya
 
 **Market Validation**:
-- Previous competition win demonstrates concept validation
 - Informal surveys in target neighborhoods show 60% interest in service
 - Competitor analysis shows unmet demand: existing services have wait lists
 - Government policy shift toward waste reduction creates favorable environment
@@ -453,7 +450,6 @@ API Development:
 - Market research summary
 - Competitor analysis matrix
 - Letter of intent from recycling factory partner (in progress)
-- Testimonials from previous competition judges
 
 ---
 
