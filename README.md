@@ -1,7 +1,5 @@
 # PilahYuk - Sustainable Waste Management Platform
 
-![PilahYuk Banner](https://via.placeholder.com/1200x300/22c55e/ffffff?text=PilahYuk+-+Sort+Your+Waste%2C+Save+The+Planet)
-
 **#1 Waste Pickup Platform** | Home waste pickup, earn rewards, and track drivers in real-time
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://pilahyuk.vercel.app)
