@@ -237,19 +237,15 @@ npm start
 - 1 kg plastic recycled = 1.5 kg CO2 saved
 - 1 kg paper recycled = 1.0 kg CO2 saved
 
-## 👥 Team
+## 👥 Founder
 
-**Azhar Dzaky** - Founder  
-Background: Previous hackathon winner with PilahYuk concept
+**Neezar Abd** - Solo Founder & Full-Stack Developer
+- UI/UX Design: Complete user interface and experience design
+- Frontend Development: Next.js, TypeScript, Tailwind CSS implementation
+- Business Strategy: Market research and competitive analysis
+- Previous Achievement: 1st place winner with PilahYuk concept at regional competition
 
-**Neezar Abd** - UI/UX Designer  
-Expertise: User interface design, user experience research
-
-**Mahesa Farhan** - Manager  
-Role: Operations and business development
-
-**Pak Shinata** - Supervisor  
-Guidance: Strategic oversight and mentorship
+*Currently seeking co-founders for operations and business development roles*
 
 ## 📄 License
 
