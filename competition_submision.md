@@ -435,17 +435,6 @@ API Development:
 
 ## ADDITIONAL MATERIALS
 
-### Pitch Video
-[5-minute video pitch demonstrating problem, solution, and impact - to be recorded]
-
-**Video Outline**:
-1. Hook (0:00-0:30): Show waste problem in Indonesia with real statistics
-2. Personal Story (0:30-1:00): Why this problem matters to our team
-3. Solution Demo (1:00-3:00): Live walkthrough of website showing user flow
-4. Business Model (3:00-4:00): How we make money and why margins are better
-5. Impact & Vision (4:00-4:30): Environmental and social impact at scale
-6. Team & Next Steps (4:30-5:00): Who we are and pilot program plan
-
 ### Visual Assets
 - Logo and brand guidelines
 - Website screenshots (5 key pages)
