@@ -259,17 +259,15 @@ Scaling beyond 300+ users will require building a proper team. Finding the right
 
 ## 📄 License
 
-This project is currently private for Creator Colosseum Startup Competition submission.
+This project is submitted for a startup competition. All rights reserved.
 
 ## 🔗 Links
 
 - **Live Demo**: [pilahyuk.vercel.app](https://pilahyuk.vercel.app)
-- **Competition**: [Creator Colosseum Startup Competition](https://devpost.com/)
 - **Contact**: [neezar-abd](https://github.com/neezar-abd)
 
 ## 🙏 Acknowledgments
 
-- Creator Colosseum for organizing the competition
 - Environmental data from KLHK (Ministry of Environment and Forestry)
 - Inspiration from Indonesia's waste management challenges
 

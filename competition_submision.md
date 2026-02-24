@@ -1,4 +1,4 @@
-# PilahYuk - Creator Colosseum Startup Competition Submission
+# PilahYuk - Startup Competition Submission
 
 ## SUBMISSION INFORMATION
 
@@ -462,7 +462,7 @@ API Development:
 
 ## COMPETITION ALIGNMENT
 
-**Why PilahYuk Fits Creator Colosseum**:
+**Why PilahYuk Stands Out**:
 
 1. **Beginner-Friendly**: Our team is students building a real business, not experienced entrepreneurs. This competition's mentorship focus will help us refine our go-to-market strategy.
 
@@ -499,7 +499,7 @@ We have:
 
 We're seeking mentorship, validation, and support to transform this concept into reality.
 
-Thank you for considering PilahYuk for the Creator Colosseum Startup Competition.
+Thank you for considering PilahYuk for this competition.
 
 ---
 
